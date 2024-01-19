@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whislist</string>
+    <string name="url_example">Ex: http://www.example.com</string>
+    <string name="item_name">Item name</string>
+    <string name="submit">Submit</string>
+    <string name="price_example">Ex: 5.99</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Whislist" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#317742</item>
+        <item name="colorPrimaryDark">#094A19</item>
+        <item name="android:navigationBarColor">#477EEA</item>
+        <item name="android:windowBackground">#BFBFBF</item>
+    </style>
+
+    <style name="Theme.Whislist" parent="Base.Theme.Whislist" />
+
+    <style name="urlText">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="normalText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="itemNameText" parent="@style/normalText">
+        <item name="android:textSize">22sp</item>
+    </style>
+</resources>
